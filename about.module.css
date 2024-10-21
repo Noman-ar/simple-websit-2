@@ -1,0 +1,16 @@
+.container{
+    background-color: aqua;
+}
+
+.heading{
+    text-align: center;
+    color: red;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+.para{
+    color: indigo;
+    text-align: center;
+    font-size: larger;
+}

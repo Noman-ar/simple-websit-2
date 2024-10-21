@@ -1,0 +1,27 @@
+.container{
+    background-color: rgba(4, 250, 49, 0.84);
+    height: 60px;
+}
+
+.heading{
+    font-weight: 600;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.para{
+    color: crimson;
+    background-color: bisque;
+}
+
+.section{
+    color: royalblue;
+    background-color: red;
+}
+
+.list{
+    color:black;
+    text-align: center;
+    font-size: x-large;
+}
